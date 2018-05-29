@@ -1,0 +1,76 @@
+* {color: #DFDCE3;}
+
+body {background-color: #4ABDAC; font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%; width: 100%; margin: 0 auto;}
+
+#navigation {font-size: 100%; background-color: #4ABDAC; position: fixed; z-index: 1; width: 80%; top: 0; left: 0;
+     right: 0; text-align: center; border-width: 0px 0px 1px 0; border-style: solid; border-color: #DFDCE3; 
+     margin: 0 auto; padding: .5em 0em;};
+
+ul {}
+
+li {display: inline; font-weight: normal; letter-spacing: .2em; padding: 0% 5%;}
+
+h1 {padding: 0% 0 1% 0; width: 40%; border-color: #4ABDAC;  margin: 0% auto; 
+    font-size: 2em; font-weight: bold; letter-spacing: .2em;
+    text-align: center; border-width: 0px 0px 5px 0px; border-style: dotted;}
+
+#top {background-color: #FC4A1A; width: 80%; margin: 5% auto 0 auto; padding: 5% 0; overflow: auto;}
+
+#topGridLeft {float: left; width: 50%; margin: 0 auto; padding-top: 5%}
+
+#topGridLeft img{width: 90%;}
+
+#topGridRight {float: left; width: 40%; margin: 0 auto; padding-left: 5%; line-height: 200%; text-align: justify;
+    padding-top: 7%}
+
+#calendar {background-color: #F7B733; width: 80%; margin: 5% auto 0 auto; padding: 5% 0 5% 0; overflow: auto;}
+
+a {text-decoration: none;}
+
+a:hover {color: #4ABDAC;background-color: #DFDCE3;}
+
+table {margin: 0% auto 0% auto; padding-top: 5%; empty-cells: show; width: 80%;}
+
+thead {background-color: #4ABDAC; text-transform: uppercase;}
+
+tr {background-color: #4ABDAC; text-align: center;}
+
+th {background-color: #4ABDAC; padding: 1%; letter-spacing: .2em;}
+
+tbody {background-color: #4ABDAC;}
+
+td {background-color: #4ABDAC; width: 20%; height: 10%; padding: 0 1%;}
+
+#testimonials {background-color: #FC4A1A; width: 80%; margin: 5% auto 0 auto; padding: 5% 0 5% 0; overflow: auto;}
+
+#testimonials img {width: 50%;}
+
+blockquote {font-style: italic; font-style: oblique; border-color: #DFDCE3;
+    border-bottom: 1px solid; border-width: 60%;}
+
+blockquote.firstBlock {padding: 5% 6% 5% 36%; text-align: justify;}
+
+blockquote.middleBlock {padding: 5% 60% 5% 6.5%;}
+
+blockquote.bottomBlock {padding: 5% 5% 5% 36%; border: none;}
+
+#contact {background-color: #F7B733; width: 80%; margin: 5% auto 0 auto; padding: 5% 0 5% 0; overflow: auto;}
+
+fieldset {border: none;  width: 60%; margin: 0 auto;}
+
+textarea {color: #000; background-color: #4ABDAC; width: 50%; height: 150px;}
+
+#submitButton {background-color: #4ABDAC; width: 30%; 
+    height: 150px; border: none; letter-spacing: .5em; color: #DFDCE3;
+    font: 110% bold; font-weight: bold; text-transform: uppercase; font-family: Courier, monospace;}
+
+#submitButton:hover {border: 1px solid #FC4A1A;}
+
+div .contactInfo {margin: 10% auto 5% auto; text-align: center;}
+
+.contactInfo input { background-color: #4ABDAC; border: none;}
+
+span#toptext { float: left; padding: 0% 60% 0 5%;};
+
+span div[class="contactInfo"] {float: left; width: 30%;}

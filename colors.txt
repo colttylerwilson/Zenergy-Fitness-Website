@@ -1,0 +1,4 @@
+(blue)	#4ABDAC
+(orange)#FC4A1A
+(yellow)#F7B733
+(grey)	#DFDCE3
